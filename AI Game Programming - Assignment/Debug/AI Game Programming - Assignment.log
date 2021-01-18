@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AI Game Programming - Assignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(202,21): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(393,21): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(397,21): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(407,21): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Main.cpp(422,35): warning C4101: 'oor': unreferenced local variable
+  Nodes.cpp
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Nodes.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\AI Game Programming - Assignment\Nodes.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AI Game Programming - Assignment.vcxproj -> D:\University Assignments\Second Year\AIGP (AI Game Programming)\AI Game Programming - Assignment Submission\AI Game Programming - Assignment (AStar Pathfinding)\Debug\AI Game Programming - Assignment (AStar Pathfinding).exe
